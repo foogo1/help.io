@@ -1,0 +1,13 @@
+{
+	"1": ["Начальная... Требуется Advanced-лицензия!", "index.htm", []],
+	"2": ["1. Начал... Требуется Advanced-лицензия!", "nachalo_raboty.htm", []],
+	"3": ["1.1. Крат... Требуется Advanced-лицензия!", "kratkij_obzor.htm", [1]],
+	"4": ["1.1.1. О прогр... Требуется Advanced-лицензия!", "o_programme_dr_explain.htm", [1,2]],
+	"5": ["1.1.2. Систем... Требуется Advanced-лицензия!", "sistemnye_trebovaniya.htm", [1,2]],
+	"6": ["1.1.3. Сведен... Требуется Advanced-лицензия!", "svedeniya_ob_avtorakh.htm", [1,2]],
+	"7": ["1.1.4. ... Требуется Advanced-лицензия!", "kontakty.htm", [1,2]],
+	"8": ["1.1.5. ... Требуется Advanced-лицензия!", "litsenziya.htm", [1,2]],
+	"9": ["1.2. Ус... Требуется Advanced-лицензия!", "ustanovka.htm", [1]],
+	"10": ["1.3. Преимущест... Требуется Advanced-лицензия!", "preimushchestva_polnoj_versii.htm", [1]],
+	"11": ["1.4. Главное о... Требуется Advanced-лицензия!", "glavnoe_okno_prilozheniya.htm", [1]]
+}
